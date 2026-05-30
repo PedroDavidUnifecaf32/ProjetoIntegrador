@@ -1,0 +1,15 @@
+
+Neste repositório Git, você encontrará um arquivo .rar contendo todos os recursos necessários para executar o sistema CoreDesk.
+
+Abaixo estão os links para os materiais de apoio do projeto:
+
+[Miro do Projeto](https://miro.com/welcomeonboard/KzlReFQzODV3NzVWekczaURLOFlUc1ZEc1FFK0xtQk04NEJjOFN0NGdpWTM1VENaajFiYnVwemZMVzUxRFhiS0hiTmEwZUtNUDVMNlRNYWVvcXI1L2JZK3AzVFVxenRhSVAyZ3EwQnRpT2p5TXVtcGNVN2lXTjVHOEdDSXlVWVFBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=330670799853)
+
+[Figma do projeto](https://www.figma.com/make/AZkJ9nLeaDrXdYmai0sXmc/Site-de-gerenciamento-de-computadores?p=f)
+
+O CoreDesk é um aplicativo de gerenciamento de computadores desenvolvido para
+registrar, consultar, editar e excluir informações relacionadas aos equipamentos
+controlados pela empresa. Além do gerenciamento das máquinas, o sistema também
+armazena dados de acesso dos usuários, organizados por níveis de permissão, como
+nível 1 e nível 2, garantindo que cada usuário tenha acesso apenas às funcionalidades
+permitidas de acordo com seu perfil.
